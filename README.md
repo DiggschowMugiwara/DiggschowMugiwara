@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna Digvijay Chowdary</h1>
+<h3 align="center">Fight and suffer</h3>
+
 - 🌱 I’m currently learning **AI Algorithms**
 
 - 📫 How to reach me **gskdigvijay.220456@gmail.com**
 
+- ⚡ Fun fact **I think I am an Intellectual sloth**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/digvijay_chowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digvijay_chowdary" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/diggschow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="diggschow" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/diggschow_mugiwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diggschow_mugiwara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
