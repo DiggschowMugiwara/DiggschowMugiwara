@@ -15,8 +15,6 @@
 ```yaml
 name: Sai Krishna Digvijay Chowdary
 located_in: India
-currently_learning: AI Algorithms
-fun_fact: I think I am an Intellectual Sloth
 contact: gskdigvijay.220456@gmail.com
 ```
 
